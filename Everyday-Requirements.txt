@@ -59,3 +59,17 @@ Type: Functional
 Rationale: The booking diary for a property needs to be updated so that it can be known whether the booking has been paid for
 Originator: Ayisha Jayakodi
 Comments: [Steven Wood]
+
+REQ-ID: JC09
+Description: The system shall send confirmations by electronic means ie e-mail or SMS
+Type: Functional
+Rationale: The proposed system will need to maximise efficiency
+Originator: Software Developer
+Comments: [James Chalmers]
+
+REQ-ID: JC10
+Description: The system shall be usable by means of mobile devices, tablet PCs or Desktop PCs and Laptops
+Type: Functional
+Rationale: The proposed system will need to maximise the number of potential customers
+Originator: Software Developer
+Comments: [James Chalmers]
