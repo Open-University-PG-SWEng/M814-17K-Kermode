@@ -46,4 +46,16 @@ Rationale: Property Owners need to be able a-to assess the correctness of any in
 Originator: Customer Service Agents(Ayisha Jayakodi)
 Comments: [Paul Farmer]
 
+REQ-ID: SW07
+Description: The system shall be able to process payments by means of Credit Card
+Type: Functional
+Rationale: Prospective holiday makers need to be able pay for their bookings
+Originator: Ayisha Jayakodi
+Comments: [Steven Wood]
 
+REQ-ID: SW08
+Description: The system shall update the payment state for the properties booking diary
+Type: Functional
+Rationale: The booking diary for a property needs to be updated so that it can be known whether the booking has been paid for
+Originator: Ayisha Jayakodi
+Comments: [Steven Wood]
