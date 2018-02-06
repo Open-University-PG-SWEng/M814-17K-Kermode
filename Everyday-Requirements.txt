@@ -73,3 +73,17 @@ Type: Functional
 Rationale: The proposed system will need to maximise the number of potential customers
 Originator: Software Developer
 Comments: [James Chalmers]
+
+REQ-ID: MM11
+Description: The product shall provide a downloadable format of property details
+Type: Functional
+Rationale: Holidaymakers need to be able to save off details of properties they are interested in to refer back to easily and save for their records
+Originator: Ayisha Jayakodi
+Comments: [Mike Moore]
+
+REQ-ID: MM12
+Description: The product shall provide the facility to browse appropriate properties to their requirements
+Type: Functional
+Rationale: Holidaymakers should be able to browse through the available properties which are relevant to their needs to allow them to find the property they want to book quickly, reducing drop out rates
+Originator: Ayisha Jayakodi
+Comments: [Mike Moore]
