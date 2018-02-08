@@ -95,7 +95,7 @@ Rationale: The primary purpose of the product is to advertise Landbnb's properti
 Originator: Carolie Sterling
 Comments: [Jonathan Hill]
 
-REQ-ID: JH13
+REQ-ID: JH14
 Description: The product shall collect holidaymakers contact details.
 Type: Functional
 Rationale: To qualify holidaymakers as real people and provide a means for Landbnb to follow-up as required.
