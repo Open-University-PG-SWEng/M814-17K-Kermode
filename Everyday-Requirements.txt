@@ -87,3 +87,17 @@ Type: Functional
 Rationale: Holidaymakers should be able to browse through the available properties which are relevant to their needs to allow them to find the property they want to book quickly, reducing drop out rates
 Originator: Ayisha Jayakodi
 Comments: [Mike Moore]
+
+REQ-ID: JH13
+Description: The product shall display Landbnb’s list of properties and services to visitors.
+Type: Functional
+Rationale: The primary purpose of the product is to advertise Landbnb's properties and services.
+Originator: Carolie Sterling
+Comments: [Jonathan Hill]
+
+REQ-ID: JH13
+Description: The product shall collect holidaymakers contact details.
+Type: Functional
+Rationale: To qualify holidaymakers as real people and provide a means for Landbnb to follow-up as required.
+Originator: Ayisha Jayakodi
+Comments: [Jonathan Hill]
