@@ -1,4 +1,4 @@
-REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
@@ -101,3 +101,18 @@ Type: Functional
 Rationale: To qualify holidaymakers as real people and provide a means for Landbnb to follow-up as required.
 Originator: Ayisha Jayakodi
 Comments: [Jonathan Hill]
+
+EQ-ID: KF15
+Description: The product shall record the number of rooms and services to the property
+Type: Functional
+Rationale: To be able to accurately record property details in order to to match holidaymakers needs to potential properties
+Originator: Ayisha Jayakodi
+Comments: [Kate Feliciello] 
+
+EQ-ID: KF16
+Description: The product shall be able to search for properties similar in type and location
+Type: Functional
+Rationale: To be able to compare rental prices of similar properties before setting a rental price with owner
+Originator: Ayisha Jayakodi
+Comments: [Kate Feliciello] 
+
