@@ -1,21 +1,13 @@
-﻿REQ-ID:
-Description:
-Type:
-Rationale:
-Originator:
-Comments: [M814-ModuleChair] Copy this template below to add new requirements.
-
-
-REQ-ID:	CMP01
-Description:	When the system admin enter the administration screen, they should be able to easily be able to find the link to the Add New Property page.
-Type:	Non-functional
-Rationale:	This will be one of the main features of the admin screen and so the users would want quick and easy access to the page.
+﻿REQ-ID:	CMP01
+Description: When the system admin enter the administration screen, they should be able to easily be able to find the link to the Add New Property page.
+Type: Non-functional
+Rationale: This will be one of the main features of the admin screen and so the users would want quick and easy access to the page.
 Originator:	Caroline Sterling
 
 REQ-ID:	CMP02
-Description:	When the admin user submits the new properties details, the content added should be validated to make sure the data is in the correct format and not missing.
-Type:	Functional
-Rationale:	When adding the details, the agency and property owner do not want incorrect data added on the site or hazardous data saved to the database. This prevents the data being submitted.
+Description: When the admin user submits the new properties details, the content added should be validated to make sure the data is in the correct format and not missing.
+Type: Functional
+Rationale: When adding the details, the agency and property owner do not want incorrect data added on the site or hazardous data saved to the database. This prevents the data being submitted.
 Originator:	Caroline Sterling
 
 REQ-ID:	SB03
@@ -32,17 +24,17 @@ Rationale: To show different views of the property to potential holidaymakers in
 Originator: Ayisha Jayakodi - Agent
 Comments: [Sergejs Bolsedvorskis]
 
-REQ-ID:	PF05
-Description: The product shall store property photographs
-Type: Functional
-Rationale: Holidaymakers need to be able to view photographs of a property to make a reasonable assessment of suitability for booking
-Originator: Customer Service Agents(Ayisha Jayakodi)
-Comments: [Paul Farmer]
+// REQ-ID:	PF05
+// Description: The product shall store property photographs
+// Type: Functional
+// Rationale: Holidaymakers need to be able to view photographs of a property to make a reasonable assessment of suitability for booking
+// Originator: Customer Service Agents(Ayisha Jayakodi)
+// Comments: [Paul Farmer]
 
 REQ-ID:	PF06
 Description: The product shall store property particulars
 Type: Functional
-Rationale: Property Owners need to be able a-to assess the correctness of any information that may be accessed by other users of the product
+Rationale: Property Owners need to be able to assess the correctness of any information that may be accessed by other users of the product
 Originator: Customer Service Agents(Ayisha Jayakodi)
 Comments: [Paul Farmer]
 
@@ -92,7 +84,7 @@ REQ-ID: JH13
 Description: The product shall display Landbnb’s list of properties and services to visitors.
 Type: Functional
 Rationale: The primary purpose of the product is to advertise Landbnb's properties and services.
-Originator: Carolie Sterling
+Originator: Caroline Sterling
 Comments: [Jonathan Hill]
 
 REQ-ID: JH14
@@ -102,17 +94,17 @@ Rationale: To qualify holidaymakers as real people and provide a means for Landb
 Originator: Ayisha Jayakodi
 Comments: [Jonathan Hill]
 
-EQ-ID: KF15
+REQ-ID: KF15
 Description: The product shall record the number of rooms and services to the property
 Type: Functional
-Rationale: To be able to accurately record property details in order to to match holidaymakers needs to potential properties
+Rationale: To be able to accurately record property details in order to match holidaymakers needs to potential properties
 Originator: Ayisha Jayakodi
 Comments: [Kate Feliciello] 
 
-EQ-ID: KF16
-Description: The product shall be able to search for properties similar in type and location
-Type: Functional
-Rationale: To be able to compare rental prices of similar properties before setting a rental price with owner
-Originator: Ayisha Jayakodi
-Comments: [Kate Feliciello] 
+// REQ-ID: KF16
+// Description: The product shall be able to search for properties similar in type and location
+// Type: Functional
+// Rationale: To be able to compare rental prices of similar properties before setting a rental price with owner
+// Originator: Ayisha Jayakodi
+// Comments: [Kate Feliciello] 
 
