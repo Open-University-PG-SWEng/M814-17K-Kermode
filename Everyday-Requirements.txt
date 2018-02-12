@@ -13,14 +13,14 @@ Originator:	Caroline Sterling
 REQ-ID:	SB03
 Description: The product shall accept a valid postal address of a property.
 Type: Functional
-Rationale: To ensure the usage of correct postal addresses for the contract and for the bookings.
+Rationale: To ensure the usage of correct postal addresses for contract and bookings.
 Originator: Ayisha Jayakodi - Agent
 Comments: [Sergejs Bolsedvorskis]
 
 REQ-ID:	SB04
 Description: The product shall accept multiple photographs of a property.
 Type: Functional
-Rationale: To show different views of the property to potential holidaymakers increasing the likelihood of the bookings. 
+Rationale: To show different views of the property to the potential holidaymakers, increasing the likelihood of bookings.
 Originator: Ayisha Jayakodi - Agent
 Comments: [Sergejs Bolsedvorskis]
 
