@@ -116,3 +116,17 @@ Rationale: To be able to compare rental prices of similar properties before sett
 Originator: Ayisha Jayakodi
 Comments: [Kate Feliciello] 
 
+REQ-ID: IS17
+Description: The product shall allow the owner of a registered property to request a cleaning service during a known period of absense.
+Type: Functional
+Rationale: The property should still, where possible, be allowed to be rented out, even if the owner is away, to maximise the revenue stream for the property
+Originator: Ayisha Jayakodi
+Comments: [Ian Smith]
+
+REQ-ID: IS18
+Description: The product shall, at the start of the week, generate a schedule of properties to be visited by agents for that week
+Type: Functional
+Rationale: To ensure that any maintenance or cleaning that is required for properties due to be let is carried out before the next letting occurs.
+Originator: Ayisha Jayakodi
+Comments: [Ian Smith]
+
