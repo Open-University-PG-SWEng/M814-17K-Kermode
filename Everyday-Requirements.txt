@@ -1,4 +1,4 @@
-REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
@@ -25,24 +25,10 @@ Rationale: To ensure the usage of correct postal addresses for contract and book
 Originator: Ayisha Jayakodi - Agent
 Comments: [Sergejs Bolsedvorskis]
 
-REQ-ID:	SB04
-Description: The product shall accept multiple photographs of a property.
-Type: Functional
-Rationale: To show different views of the property to the potential holidaymakers, increasing the likelihood of bookings.
-Originator: Ayisha Jayakodi - Agent
-Comments: [Sergejs Bolsedvorskis]
-
 REQ-ID:	PF05
 Description: The product shall store property photographs
 Type: Functional
 Rationale: Holidaymakers need to be able to view photographs of a property to make a reasonable assessment of suitability for booking
-Originator: Customer Service Agents(Ayisha Jayakodi)
-Comments: [Paul Farmer]
-
-REQ-ID:	PF06
-Description: The product shall store property particulars
-Type: Functional
-Rationale: Property Owners need to be able a-to assess the correctness of any information that may be accessed by other users of the product
 Originator: Customer Service Agents(Ayisha Jayakodi)
 Comments: [Paul Farmer]
 
@@ -87,13 +73,6 @@ Type: Functional
 Rationale: Holidaymakers should be able to browse through the available properties which are relevant to their needs to allow them to find the property they want to book quickly, reducing drop out rates
 Originator: Ayisha Jayakodi
 Comments: [Mike Moore]
-
-REQ-ID: JH13
-Description: The product shall display Landbnb’s list of properties and services to visitors.
-Type: Functional
-Rationale: The primary purpose of the product is to advertise Landbnb's properties and services.
-Originator: Carolie Sterling
-Comments: [Jonathan Hill]
 
 REQ-ID: JH14
 Description: The product shall collect holidaymakers contact details.
