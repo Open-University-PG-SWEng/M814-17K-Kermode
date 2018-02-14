@@ -32,12 +32,13 @@ Rationale: To show different views of the property to the potential holidaymaker
 Originator: Ayisha Jayakodi - Agent
 Comments: [Sergejs Bolsedvorskis]
 
-REQ-ID:	PF05
-Description: The product shall store property photographs
-Type: Functional
-Rationale: Holidaymakers need to be able to view photographs of a property to make a reasonable assessment of suitability for booking
-Originator: Customer Service Agents(Ayisha Jayakodi)
-Comments: [Paul Farmer]
+
+// REQ-ID:	PF05
+// Description: The product shall store property photographs
+// Type: Functional
+// Rationale: Holidaymakers need to be able to view photographs of a property to make a reasonable assessment of suitability for booking
+// Originator: Customer Service Agents(Ayisha Jayakodi)
+// Comments: [Paul Farmer]
 
 REQ-ID:	PF06
 Description: The product shall store property particulars
@@ -137,10 +138,10 @@ Rationale: The postal address ensures that properties can be filtered by a holid
 Originator: Ayisha Jayakodi
 Comments: [Shaun Sheppard]
 
-REQ-ID: SS20
-Description: The product shall record the rental price of properties available for rent
-Type: Functional
-Rationale: The rental price will allow holidaymakers to determine if a property is within their budget
-Originator: Ayisha Jayakodi
-Comments: [Shaun Sheppard]
+//REQ-ID: SS20
+//Description: The product shall record the rental price of properties available for rent
+//Type: Functional
+//Rationale: The rental price will allow holidaymakers to determine if a property is within their budget
+//Originator: Ayisha Jayakodi
+//Comments: [Shaun Sheppard]
 
