@@ -32,20 +32,6 @@ Rationale: To show different views of the property to the potential holidaymaker
 Originator: Ayisha Jayakodi - Agent
 Comments: [Sergejs Bolsedvorskis]
 
-REQ-ID:	PF05
-Description: The product shall store property photographs
-Type: Functional
-Rationale: Holidaymakers need to be able to view photographs of a property to make a reasonable assessment of suitability for booking
-Originator: Customer Service Agents(Ayisha Jayakodi)
-Comments: [Paul Farmer]
-
-REQ-ID:	PF06
-Description: The product shall store property particulars
-Type: Functional
-Rationale: Property Owners need to be able a-to assess the correctness of any information that may be accessed by other users of the product
-Originator: Customer Service Agents(Ayisha Jayakodi)
-Comments: [Paul Farmer]
-
 REQ-ID: SW07
 Description: The system shall be able to process payments by means of Credit Card
 Type: Functional
