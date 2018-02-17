@@ -62,7 +62,7 @@ Originator: Ayisha Jayakodi
 Comments: [Steven Wood]
 
 REQ-ID: JC09
-Description: The system shall send confirmations by electronic means ie e-mail or SMS
+Description: The system shall send confirmations by an appropriate format.
 Type: Functional
 Rationale: The proposed system will need to maximise efficiency
 Originator: Software Developer
