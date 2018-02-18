@@ -1,4 +1,4 @@
-REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
@@ -20,31 +20,24 @@ Rationale:	When adding the details, the agency and property owner do not want in
 Originator:	Caroline Sterling
 Comments: [Christopher Pateman]
 
-REQ-ID:	SB03
+REQ-ID:	SB03/SS19
 Description: The product shall accept a valid postal address of a property.
 Type: Functional
 Rationale: To ensure the usage of correct postal addresses for contract and bookings.
 Originator: Ayisha Jayakodi - Agent
 Comments: [Sergejs Bolsedvorskis]
 
-REQ-ID:	SB04
-Description: The product shall accept multiple photographs of a property.
-Type: Functional
-Rationale: To show different views of the property to the potential holidaymakers, increasing the likelihood of bookings.
-Originator: Ayisha Jayakodi - Agent
-Comments: [Sergejs Bolsedvorskis]
-
-REQ-ID:	PF05
+REQ-ID:	PF05/SB04
 Description: The product shall store property photographs
 Type: Functional
 Rationale: Holidaymakers need to be able to view photographs of a property to make a reasonable assessment of suitability for booking
 Originator: Customer Service Agents(Ayisha Jayakodi)
 Comments: [Paul Farmer]
 
-REQ-ID:	PF06
+REQ-ID:	PF06/KF15
 Description: The product shall store property particulars
 Type: Functional
-Rationale: Property Owners need to be able a-to assess the correctness of any information that may be accessed by other users of the product
+Rationale: Property Owners need to be able a-to assess the correctness of any information that may be accessed by other users of the product, and to be able to accurately record property details in order to to match holidaymakers needs to potential properties
 Originator: Customer Service Agents(Ayisha Jayakodi)
 Comments: [Paul Farmer]
 
@@ -83,7 +76,7 @@ Rationale: Holidaymakers need to be able to save off details of properties they 
 Originator: Ayisha Jayakodi
 Comments: [Mike Moore]
 
-REQ-ID: MM12
+REQ-ID: MM12/KF16
 Description: The product shall provide the facility to browse appropriate properties to their requirements
 Type: Functional
 Rationale: Holidaymakers should be able to browse through the available properties which are relevant to their needs to allow them to find the property they want to book quickly, reducing drop out rates
@@ -104,20 +97,6 @@ Rationale: To qualify holidaymakers as real people and provide a means for Landb
 Originator: Ayisha Jayakodi
 Comments: [Jonathan Hill]
 
-EQ-ID: KF15
-Description: The product shall record the number of rooms and services to the property
-Type: Functional
-Rationale: To be able to accurately record property details in order to to match holidaymakers needs to potential properties
-Originator: Ayisha Jayakodi
-Comments: [Kate Feliciello] 
-
-EQ-ID: KF16
-Description: The product shall be able to search for properties similar in type and location
-Type: Functional
-Rationale: To be able to compare rental prices of similar properties before setting a rental price with owner
-Originator: Ayisha Jayakodi
-Comments: [Kate Feliciello] 
-
 REQ-ID: IS17
 Description: The product shall allow the owner of a registered property to request a cleaning service during a known period of absense.
 Type: Functional
@@ -131,13 +110,6 @@ Type: Functional
 Rationale: To ensure that any maintenance or cleaning that is required for properties due to be let is carried out before the next letting occurs.
 Originator: Ayisha Jayakodi
 Comments: [Ian Smith]
-
-REQ-ID: SS19
-Description: The product shall record the full postal address of a property that is being offered for rental
-Type: Functional
-Rationale: The postal address ensures that properties can be filtered by a holidaymakers location preferences
-Originator: Ayisha Jayakodi
-Comments: [Shaun Sheppard]
 
 REQ-ID: SS20
 Description: The product shall record the rental price of properties available for rent
