@@ -153,9 +153,9 @@ Rationale: To ensure a confirmation letter shall include valid booking informati
 Originator: Ayisha Jayakodi - An agent
 Comments: [Rieko Ueshima]
 
-REQ-ID: RU22
-Description: The system shall send a confirmation letter to a holidaymaker and an owner. 
-Rationale: To notify a holidaymaker and an owner their contract is concluded.
-Originator: Ayisha Jayakodi - An agent
-Comments: [Rieko Ueshima]
+//REQ-ID: RU22
+//Description: The system shall send a confirmation letter to a holidaymaker and an owner. 
+//Rationale: To notify a holidaymaker and an owner their contract is concluded.
+//Originator: Ayisha Jayakodi - An agent
+//Comments: [Rieko Ueshima]
 
