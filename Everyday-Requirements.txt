@@ -146,3 +146,15 @@ Rationale: The rental price will allow holidaymakers to determine if a property 
 Originator: Ayisha Jayakodi
 Comments: [Shaun Sheppard]
 
+REQ-ID: RU21
+Description: The system shall create a confirmation letter based on booking diary information.
+Rationale: To ensure a confirmation letter shall include valid booking information.
+Originator: Ayisha Jayakodi - An agent
+Comments: [Rieko Ueshima]
+
+REQ-ID: RU22
+Description: The system shall send a confirmation letter to a holidaymaker and an owner. 
+Rationale: To notify a holidaymaker and an owner their contract is concluded.
+Originator: Ayisha Jayakodi - An agent
+Comments: [Rieko Ueshima]
+
