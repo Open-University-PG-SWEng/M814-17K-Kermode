@@ -11,12 +11,14 @@ Description:	When the system admin enter the administration screen, they should 
 Type:	Non-functional
 Rationale:	This will be one of the main features of the admin screen and so the users would want quick and easy access to the page.
 Originator:	Caroline Sterling
+Comments: [Christopher Pateman]
 
 REQ-ID:	CMP02
 Description:	When the admin user submits the new properties details, the content added should be validated to make sure the data is in the correct format and not missing.
 Type:	Functional
 Rationale:	When adding the details, the agency and property owner do not want incorrect data added on the site or hazardous data saved to the database. This prevents the data being submitted.
 Originator:	Caroline Sterling
+Comments: [Christopher Pateman]
 
 //REQ-ID:	SB03
 //Description: The product shall accept a valid postal address of a property.
@@ -144,4 +146,16 @@ Comments: [Shaun Sheppard]
 //Rationale: The rental price will allow holidaymakers to determine if a property is within their budget
 //Originator: Ayisha Jayakodi
 //Comments: [Shaun Sheppard]
+
+REQ-ID: RU21
+Description: The system shall create a confirmation letter based on booking diary information.
+Rationale: To ensure a confirmation letter shall include valid booking information.
+Originator: Ayisha Jayakodi - An agent
+Comments: [Rieko Ueshima]
+
+REQ-ID: RU22
+Description: The system shall send a confirmation letter to a holidaymaker and an owner. 
+Rationale: To notify a holidaymaker and an owner their contract is concluded.
+Originator: Ayisha Jayakodi - An agent
+Comments: [Rieko Ueshima]
 
