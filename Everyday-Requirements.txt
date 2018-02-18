@@ -87,12 +87,12 @@ Rationale: The primary purpose of the product is to advertise Landbnb's properti
 Originator: Caroline Sterling
 Comments: [Jonathan Hill]
 
-REQ-ID: JH14
-Description: The product shall collect holidaymakers contact details.
-Type: Functional
-Rationale: To qualify holidaymakers as real people and provide a means for Landbnb to follow-up as required.
-Originator: Ayisha Jayakodi
-Comments: [Jonathan Hill]
+// REQ-ID: JH14
+// Description: The product shall collect holidaymakers contact details.
+// Type: Functional
+// Rationale: To qualify holidaymakers as real people and provide a means for Landbnb to follow-up as required.
+// Originator: Ayisha Jayakodi
+// Comments: [Jonathan Hill]
 
 REQ-ID: KF15
 Description: The product shall record the number of rooms and services to the property
@@ -122,17 +122,17 @@ Rationale: To ensure that any maintenance or cleaning that is required for prope
 Originator: Ayisha Jayakodi
 Comments: [Ian Smith]
 
-REQ-ID: SS19
-Description: The product shall record the full postal address of a property that is being offered for rental
-Type: Functional
-Rationale: The postal address ensures that properties can be filtered by a holidaymakers location preferences
-Originator: Ayisha Jayakodi
-Comments: [Shaun Sheppard]
+// REQ-ID: SS19
+// Description: The product shall record the full postal address of a property that is being offered for rental
+// Type: Functional
+// Rationale: The postal address ensures that properties can be filtered by a holidaymakers location preferences
+// Originator: Ayisha Jayakodi
+// Comments: [Shaun Sheppard]
 
-REQ-ID: SS20
-Description: The product shall record the rental price of properties available for rent
-Type: Functional
-Rationale: The rental price will allow holidaymakers to determine if a property is within their budget
-Originator: Ayisha Jayakodi
-Comments: [Shaun Sheppard]
+// REQ-ID: SS20
+// Description: The product shall record the rental price of properties available for rent
+// Type: Functional
+// Rationale: The rental price will allow holidaymakers to determine if a property is within their budget
+// Originator: Ayisha Jayakodi
+// Comments: [Shaun Sheppard]
 
