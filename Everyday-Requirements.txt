@@ -7,14 +7,14 @@ Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
 
 REQ-ID:	CMP01
-Description:	When the system admin enter the administration screen, they should be able to easily be able to find the link to the Add New Property page.
-Type:	Non-functional
+Description:	When the system admin enter the administration screen, they should be able to navigate to the 'Add New Property' page within one action.
+Type: Functional
 Rationale:	This will be one of the main features of the admin screen and so the users would want quick and easy access to the page.
 Originator:	Caroline Sterling
 Comments: [Christopher Pateman]
 
 REQ-ID:	CMP02
-Description:	When the admin user submits the new properties details, the content added should be validated to make sure the data is in the correct format and not missing.
+Description:	When the admin user submits the new properties details, the property title should be validated to have more then 1 character, less then 100 characters and only alphanumeric characters.
 Type:	Functional
 Rationale:	When adding the details, the agency and property owner do not want incorrect data added on the site or hazardous data saved to the database. This prevents the data being submitted.
 Originator:	Caroline Sterling
@@ -34,22 +34,8 @@ Rationale: To show different views of the property to the potential holidaymaker
 Originator: Ayisha Jayakodi - Agent
 Comments: [Sergejs Bolsedvorskis]
 
-REQ-ID:	PF05
-Description: The product shall store property photographs
-Type: Functional
-Rationale: Holidaymakers need to be able to view photographs of a property to make a reasonable assessment of suitability for booking
-Originator: Customer Service Agents(Ayisha Jayakodi)
-Comments: [Paul Farmer]
-
-REQ-ID:	PF06
-Description: The product shall store property particulars
-Type: Functional
-Rationale: Property Owners need to be able a-to assess the correctness of any information that may be accessed by other users of the product
-Originator: Customer Service Agents(Ayisha Jayakodi)
-Comments: [Paul Farmer]
-
 REQ-ID: SW07
-Description: The system shall be able to process payments by means of Credit Card
+Description: The system shall be able to process payments by means of PayPal
 Type: Functional
 Rationale: Prospective holiday makers need to be able pay for their bookings
 Originator: Ayisha Jayakodi
