@@ -35,7 +35,7 @@ Originator: Ayisha Jayakodi - Agent
 Comments: [Sergejs Bolsedvorskis]
 
 REQ-ID: SW07
-Description: The system shall be able to process payments by means of Credit Card
+Description: The system shall be able to process payments by means of PayPal
 Type: Functional
 Rationale: Prospective holiday makers need to be able pay for their bookings
 Originator: Ayisha Jayakodi
