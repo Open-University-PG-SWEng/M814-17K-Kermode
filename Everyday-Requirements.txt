@@ -20,26 +20,12 @@ Rationale:	When adding the details, the agency and property owner do not want in
 Originator:	Caroline Sterling
 Comments: [Christopher Pateman]
 
-REQ-ID:	SB03
-Description: The product shall accept a valid postal address of a property.
-Type: Functional
-Rationale: To ensure the usage of correct postal addresses for contract and bookings.
-Originator: Ayisha Jayakodi - Agent
-Comments: [Sergejs Bolsedvorskis]
-
 REQ-ID:	SB04
 Description: The product shall accept multiple photographs of a property.
 Type: Functional
 Rationale: To show different views of the property to the potential holidaymakers, increasing the likelihood of bookings.
 Originator: Ayisha Jayakodi - Agent
 Comments: [Sergejs Bolsedvorskis]
-
-REQ-ID:	PF05
-Description: The product shall store property photographs
-Type: Functional
-Rationale: Holidaymakers need to be able to view photographs of a property to make a reasonable assessment of suitability for booking
-Originator: Customer Service Agents(Ayisha Jayakodi)
-Comments: [Paul Farmer]
 
 REQ-ID:	PF06
 Description: The product shall store property particulars
@@ -80,13 +66,6 @@ REQ-ID: MM11
 Description: The product shall provide a downloadable format of property details
 Type: Functional
 Rationale: Holidaymakers need to be able to save off details of properties they are interested in to refer back to easily and save for their records
-Originator: Ayisha Jayakodi
-Comments: [Mike Moore]
-
-REQ-ID: MM12
-Description: The product shall provide the facility to browse appropriate properties to their requirements
-Type: Functional
-Rationale: Holidaymakers should be able to browse through the available properties which are relevant to their needs to allow them to find the property they want to book quickly, reducing drop out rates
 Originator: Ayisha Jayakodi
 Comments: [Mike Moore]
 
@@ -171,13 +150,6 @@ Type: Functional
 Rationale: To establish whether or not there is a booking already made against the dates selected. If there is already a booking this establishes another booking cannot be made.  
 Originator: Ayisha Jayakodi
 Comments: [Matthew Gill]
-
-REQ-ID: KB25
-Description: The product shall allow a holidaymaker to search for properties
-Type: Functional
-Rationale: To enable a holidaymaker to find properties that meet their requirements
-Originator: Ayisha Jayakodi
-Comments: [Karl Blythe]
 
 REQ-ID: KB26
 Description: The product shall allow a holidaymaker to view a property's details
