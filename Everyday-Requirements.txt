@@ -7,14 +7,14 @@ Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
 
 REQ-ID:	CMP01
-Description:	When the system admin enter the administration screen, they should be able to easily be able to find the link to the Add New Property page.
-Type:	Non-functional
+Description:	When the system admin enter the administration screen, they should be able to navigate to the 'Add New Property' page within one action.
+Type: Functional
 Rationale:	This will be one of the main features of the admin screen and so the users would want quick and easy access to the page.
 Originator:	Caroline Sterling
 Comments: [Christopher Pateman]
 
 REQ-ID:	CMP02
-Description:	When the admin user submits the new properties details, the content added should be validated to make sure the data is in the correct format and not missing.
+Description:	When the admin user submits the new properties details, the property title should be validated to have more then 1 character, less then 100 characters and only alphanumeric characters.
 Type:	Functional
 Rationale:	When adding the details, the agency and property owner do not want incorrect data added on the site or hazardous data saved to the database. This prevents the data being submitted.
 Originator:	Caroline Sterling
