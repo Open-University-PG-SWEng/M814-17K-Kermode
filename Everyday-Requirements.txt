@@ -185,3 +185,17 @@ Type: Functional
 Rationale: To enable a holidaymaker to view all property details (including photographs) so they can make an informed choice
 Originator: Caroline Sterling
 Comments: [Karl Blythe]
+
+REQ-ID: ES27
+Description: The property details must contain its photographs
+Type: Functional
+Rationale: To provide visual details of the property holiday makers intend to rent; these photographs will display aspects of the property which can or cannot be attractive to the holiday makers
+Originator: Landbnb
+[comments: [Ezequias Santos]
+
+REQ-ID: ES28
+Description: The form report must contain information regarding the heating, utilities, any service to be made, special feature of the property.
+Type: Functional
+Rationale: To allow holiday makers to be fully aware about the property/room they are planning to rent.
+Originator: Landbnb
+[comments: [Ezequias Santos]
