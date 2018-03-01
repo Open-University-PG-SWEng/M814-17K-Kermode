@@ -1,4 +1,4 @@
-﻿REQ-ID:
+REQ-ID:
 Description:
 Type:
 Rationale:
@@ -48,7 +48,7 @@ Type: Functional
 Rationale: The booking diary for a property needs to be updated so that it can be known whether the booking has been paid for
 Originator: Ayisha Jayakodi
 Comments: [Steven Wood]
-Comments: [JH] Chosen by SW for TMA3 Q1. 
+Comments: [JH] Chosen by SW for TMA3 Q1.
 
 REQ-ID: JC09
 Description: The system shall send confirmations by electronic means ie e-mail or SMS
