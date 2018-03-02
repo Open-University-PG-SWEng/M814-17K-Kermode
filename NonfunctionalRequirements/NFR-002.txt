@@ -1,0 +1,7 @@
+REQ-ID: NFR-002
+Description: The product shall comply with the Data Protection act 1998 and General Data Protection Regulation
+Type: 17 Legal Requirements
+Rationale: The product will capture and process personal identifiable information of property owners and holidaymakers, therefore it must comply with the data protection regulations.
+Fit Criterion: The company should document what personal data it will hold, publish privacy policy, conduct a full risk assessment 
+Originator: Sergejs Bolsedvorskis
+Comments: 
