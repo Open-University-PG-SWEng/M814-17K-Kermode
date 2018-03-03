@@ -1,0 +1,7 @@
+REQ-ID: NFR-SW01
+Description: The property diary should be updated as soon as possible after the payment is authorised and accepted
+Type: Performance (12)
+Rationale: The property diary needs to be updated as soon as possible after the payment has been taken so that no other user can attempt to book the property
+Fit Criterion: The booking diary will be updated no more than 10 seconds after the payment has been authorised
+Originator: Steven Wood
+Comments: [Steven Wood]
