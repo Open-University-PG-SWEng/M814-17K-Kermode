@@ -1,0 +1,7 @@
+REQ-ID: IS18-NRF
+Description: The product shall provide an accurate list of jobs to be sent to each maintenance company for properties this week
+Type: Perfgormance (12)
+Rationale: Need to ensure that the correct maintenance is carried out so that jobs are neither missed or duplicated.
+Fit Criterion: The required maintenance will be carried at each requested property on the correct day with no complaints from holiday maker or property owner about the task not being done.
+Originator: Interview with Ayisha Jayakodi
+Comments: [Ian Smith]
