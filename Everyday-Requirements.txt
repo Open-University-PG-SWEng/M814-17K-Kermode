@@ -5,7 +5,6 @@ Rationale:
 Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
-
 REQ-ID:	CMP01
 Description:	When the system admin enter the administration screen, they should be able to easily be able to find the link to the Add New Property page.
 Type:	Non-functional
@@ -20,16 +19,6 @@ Rationale:	When adding the details, the agency and property owner do not want in
 Originator:	Caroline Sterling
 Comments: [Christopher Pateman]
 
-<<<<<<< HEAD
-//REQ-ID:	SB03
-//Description: The product shall accept a valid postal address of a property.
-//Type: Functional
-//Rationale: To ensure the usage of correct postal addresses for contract and bookings.
-//Originator: Ayisha Jayakodi - Agent
-//Comments: [Sergejs Bolsedvorskis]
-
-=======
->>>>>>> 78458141bc78f7ef3f85b1404a44b6b8fc66f671
 REQ-ID:	SB04
 Description: The product shall accept multiple photographs of a property.
 Type: Functional
@@ -37,17 +26,6 @@ Rationale: To show different views of the property to the potential holidaymaker
 Originator: Ayisha Jayakodi - Agent
 Comments: [Sergejs Bolsedvorskis]
 
-<<<<<<< HEAD
-
-// REQ-ID:	PF05
-// Description: The product shall store property photographs
-// Type: Functional
-// Rationale: Holidaymakers need to be able to view photographs of a property to make a reasonable assessment of suitability for booking
-// Originator: Customer Service Agents(Ayisha Jayakodi)
-// Comments: [Paul Farmer]
-
-=======
->>>>>>> 78458141bc78f7ef3f85b1404a44b6b8fc66f671
 REQ-ID:	PF06
 Description: The product shall store property particulars
 Type: Functional
@@ -132,29 +110,13 @@ Rationale: The postal address ensures that properties can be filtered by a holid
 Originator: Ayisha Jayakodi
 Comments: [Shaun Sheppard]
 
-<<<<<<< HEAD
-//REQ-ID: SS20
-//Description: The product shall record the rental price of properties available for rent
-//Type: Functional
-//Rationale: The rental price will allow holidaymakers to determine if a property is within their budget
-//Originator: Ayisha Jayakodi
-//Comments: [Shaun Sheppard]
 
-=======
->>>>>>> 78458141bc78f7ef3f85b1404a44b6b8fc66f671
 REQ-ID: RU21
 Description: The system shall create a confirmation letter based on booking diary information.
 Rationale: To ensure a confirmation letter shall include valid booking information.
 Originator: Ayisha Jayakodi - An agent
 Comments: [Rieko Ueshima]
 
-<<<<<<< HEAD
-//REQ-ID: RU22
-//Description: The system shall send a confirmation letter to a holidaymaker and an owner. 
-//Rationale: To notify a holidaymaker and an owner their contract is concluded.
-//Originator: Ayisha Jayakodi - An agent
-//Comments: [Rieko Ueshima]
-=======
 REQ-ID: MG23
 Description: The product shall find the product searched for.
 Type: Functional
@@ -168,7 +130,6 @@ Type: Functional
 Rationale: To establish whether or not there is a booking already made against the dates selected. If there is already a booking this establishes another booking cannot be made.  
 Originator: Ayisha Jayakodi
 Comments: [Matthew Gill]
->>>>>>> 78458141bc78f7ef3f85b1404a44b6b8fc66f671
 
 REQ-ID: KB25
 Description: The product shall allow a holidaymaker to search for properties
