@@ -6,3 +6,4 @@ Fit Criterion: The repository must be able to hold a string of maximum 250 chara
 Originator: Ayisha Jayakodi
 Comments: [CMP-Christoher Pateman]
 Comments: [JH] Why is there a limit of 250 characters? It seems arbitrary. 
+Comments: [IS] For databases, the recommended field size for postal code seems to be a VARCHAR(16). See https://en.wikipedia.org/wiki/Postal_code
