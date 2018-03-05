@@ -5,3 +5,5 @@ Rationale: The property diary needs to be updated as soon as possible after the 
 Fit Criterion: The booking diary will be updated no more than 10 seconds after the payment has been authorised
 Originator: Steven Wood
 Comments: [Steven Wood]
+Comments: [JH] Is a property diary within the scope of this product (reduced scope as noted in TMA02)?
+Comments: [JH] Where does the '10 seconds' criteria come from?
