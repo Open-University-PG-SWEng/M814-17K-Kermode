@@ -4,6 +4,5 @@ Type: Usability and humanity requirements
 Rationale: Some users postal addresses might be very long, so there should be enough room to fit them in but we do not want to give an open length.
 Fit Criterion: The repository must be able to hold a string of maximum 250 characters.
 Originator: Ayisha Jayakodi
-Comments: [CMP-Christoher Pateman] 
-
-
+Comments: [CMP-Christoher Pateman]
+Comments: [JH] Why is there a limit of 250 characters? It seems arbitrary. 
