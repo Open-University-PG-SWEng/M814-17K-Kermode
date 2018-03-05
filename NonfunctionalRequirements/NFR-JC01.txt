@@ -1,0 +1,7 @@
+REQ-ID: NFR-JC01
+Description: The product shall comply with the Equality Act 2010 (formerly known as the Disability Discrimination Act 1995) as amended
+Type: 17 Legal Requirements
+Rationale: To allow disabled users of the product to do so without experiencing barriers or suffering less favourable treatment, by making reasonable adjustments to the usability and accessibility of the product .
+Fit Criterion: The product shall receive an approval rating of 75% or more from disabled users.
+Originator: James Chalmers
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
