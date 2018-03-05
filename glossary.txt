@@ -1,0 +1,11 @@
+Term:       visitor
+Definition: A catch-all term for a consumer of the product's website. Could be holidaymaker, property owner, search engine bot or just a curious web browser.
+Proposer:   Jonathan Hill
+Accepted:
+Comments:   [JH] From REQ-ID JH-13. I felt uncomfortable with using this term in the req's description. Hopefully this clears it's usage up.
+
+Term:
+Definition:
+Proposer:
+Accepted:
+Comments:
