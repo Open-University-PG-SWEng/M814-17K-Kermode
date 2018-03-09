@@ -2,6 +2,7 @@ REQ-ID: NFR-JH14
 Description: The product shall comply with the General Data Protection Regulation
 Type: 17 Legal Requirements
 Rationale: The product will capture and process personal identifiable information of property owners and holidaymakers, therefore it must comply with the data protection regulations.
-Fit Criterion: The product must comply with the General Data Protection Regulation published by Council of the European Union in 2016. 
+Fit Criterion: The product must comply with the General Data Protection Regulation published by Council of the European Union in 2016.
 Originator: Ayisha Jayakodi
 Comments: [Sergejs Bolsedvorskis]
+Comments: [JH] A guide like https://www.hallaminternet.com/how-to-make-your-website-gdpr-compliant/ might be a helpful supporting material for this requirement.
