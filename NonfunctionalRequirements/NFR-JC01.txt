@@ -6,4 +6,5 @@ Fit Criterion: The product shall receive an approval rating of 75% or more from 
 Originator: James Chalmers
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
-[SB-Sergejs Bolsedvorskis] This is a very good requirement and it should pass the quality gateway. There is a lack of services allowing disabled users to access and use their products. The website may increase the user base and may get a competitive advantage over its competitors by making reasonable adjustments to the usability and accessibility. 
+[SB-Sergejs Bolsedvorskis] This is a very good requirement and it should pass the quality gateway. There is a lack of services allowing disabled users to access and use their products. The website may increase the user base and may get a competitive advantage over its competitors by making reasonable adjustments to the usability and accessibility.
+[JH] I found some great information which might help to support/implement this requirement - see https://www.visitbritain.org/providing-access-all
