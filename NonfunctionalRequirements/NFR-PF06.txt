@@ -1,8 +1,9 @@
 REQ-ID:PF06-NFR
-Description:Property details shall be subject to a consistency and accuracy check prior to being viewed by prospective holidaymakers
+Description:Property details shall be subject to a consistency and accuracy check prior to being permitted to be viewed by prospective holidaymakers
 Type:Legal Requirement
 Rationale:If property details are inaccurate or misleading, the company could be subject to legal action brought by prospective holidaymakers 
 Fit Criterion:Property details shall be periodically checked to ensure that the accuracy of stored data has an error rate that exceeds that 
-specified by the in-force VisitBritain requirements
+specified by the in-force VisitBritain requirements, and also to a standard deemed acceptable by the companies legal representatives.
+Sopporting Information: https://www.visitbritain.org/pink-book/ and all relevant links
 Originator:Brian Aldridge [Agency Owner]
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
