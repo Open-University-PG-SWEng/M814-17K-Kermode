@@ -7,3 +7,6 @@ Originator: Ayashi Jayakodi
 Comments: [MM-Mike Moore]
 
 [SB-Sergejs Bolsedvorskis] The requirement of a minimum uptime of 99.9% annually could result in very high costs for the infrastructure. The costs growth is non linear, eg. the costs for the 95% uptime target could be marginally lower in contrast to the 99.9% uptime target. The download feature is important but it is not a business critical task. The website itself and payments processing are business critical components and they will require higher uptime target. Even AWS struggles to achieve such uptime targets. Good analysis on AWS outage in 2017 was published on Geek Wire. Brian Guy (2017) GeekWire [Online]. Available at: https://www.geekwire.com/2017/analysis-rethinking-cloud-architecture-outage-amazon-web-services/
+[PF-Paul Farmer] Shouldn't the description simply indicate that the product should maintain a high level of availability for the download feature. The fit criteria then specifies the actual level.
+[PF] I also agree that the percentage specified creates a significant cost/benefit issue. The system may need to be unavailable for maintenance, backups etc., that could cause the target to be missed.
+[PF] This requirement may force significant redundancy options to be considered that would cause the cost of implementation to escalate.

@@ -8,3 +8,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 
 [SB-Sergejs Bolsedvorskis] This is a very good requirement and it should pass the quality gateway. There is a lack of services allowing disabled users to access and use their products. The website may increase the user base and may get a competitive advantage over its competitors by making reasonable adjustments to the usability and accessibility.
 [JH] I found some great information which might help to support/implement this requirement - see https://www.visitbritain.org/providing-access-all
+[PF-Paul Farmer] If this is a legal requirement, then is having an approval rating really a satisfactory fit criteria as it is too subjective? Shouldn't any legal requirement at least contain a fit criteria that indicates that the solution has been passed by the company legal department or even the legal entity itself as being fit for purpose.
