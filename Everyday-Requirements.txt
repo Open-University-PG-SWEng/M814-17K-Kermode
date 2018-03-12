@@ -1,4 +1,4 @@
-﻿﻿REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
@@ -88,7 +88,7 @@ Description: The product shall record the number of rooms and services to the pr
 Type: Functional
 Rationale: To be able to accurately record property details in order to to match holidaymakers needs to potential properties
 Originator: Ayisha Jayakodi
-Comments: [Removed PF06 as it was a more generalised form of this requirement] 
+Comments: [Removed PF06 as it was a more generalised form of this requirement]
 
 REQ-ID: IS17
 Description: The product shall allow the owner of a registered property to request a cleaning service during a known period of absense.
@@ -120,14 +120,14 @@ Comments: [Rieko Ueshima]
 REQ-ID: MG23
 Description: The product shall find the product searched for.
 Type: Functional
-Rationale: To ensure that the selected property is within the database of offered holiday properties and can be booked against. 
+Rationale: To ensure that the selected property is within the database of offered holiday properties and can be booked against.
 Originator: Ayisha Jayakodi
 Comments: [Matthew Gill]
 
 REQ-ID: MG24
 Description: The product shall check if the property is available on the dates entered.
 Type: Functional
-Rationale: To establish whether or not there is a booking already made against the dates selected. If there is already a booking this establishes another booking cannot be made.  
+Rationale: To establish whether or not there is a booking already made against the dates selected. If there is already a booking this establishes another booking cannot be made.
 Originator: Ayisha Jayakodi
 Comments: [Matthew Gill]
 
