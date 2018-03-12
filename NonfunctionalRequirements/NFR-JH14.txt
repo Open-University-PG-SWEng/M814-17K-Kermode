@@ -5,3 +5,4 @@ Rationale: The product will capture and process personal identifiable informatio
 Fit Criterion: The product must comply with the General Data Protection Regulation published by Council of the European Union in 2016. 
 Originator: Ayisha Jayakodi
 Comments: [Sergejs Bolsedvorskis]
+[JC] I feel the Fit Criterion should be reworded to say 'The Company's lawyers shall confirm that the product complies with the GDPR', at the moment the Fit Criterion just repeats the Description.
