@@ -73,7 +73,7 @@ REQ-ID: JH13
 Description: The product shall display Landbnb’s list of properties and services to visitors.
 Type: Functional
 Rationale: The primary purpose of the product is to advertise Landbnb's properties and services.
-Originator: Carolie Sterling
+Originator: Caroline Sterling
 Comments: [Jonathan Hill]
 
 REQ-ID: JH14
