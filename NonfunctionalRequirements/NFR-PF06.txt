@@ -7,3 +7,4 @@ specified by the in-force VisitBritain requirements, and also to a standard deem
 Sopporting Information: https://www.visitbritain.org/pink-book/ and all relevant links
 Originator:Brian Aldridge [Agency Owner]
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[MM] The Fit Criterion is perhaps more of an ongoing business process than a quality the system can be assessed for. Perhaps the same could be said of the requirement. Outside of validation to check for the right types of information being entered I don't see how the system being developed can be checked for accuracy. If it were typed in that a property's address is in Brighton when it's actually in Blackpool, there's nothing the system being created can do to discern the quality of that data being entered. It's up to the agency to ensure that processes are in place to ensure accurate data is input. I don't think this would pass the gateway at the moment.

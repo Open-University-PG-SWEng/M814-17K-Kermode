@@ -5,3 +5,4 @@ Rationale: Need to ensure that the correct maintenance is carried out so that jo
 Fit Criterion: The required maintenance will be carried at each requested property on the correct day with no complaints from holiday maker or property owner about the task not being done.
 Originator: Interview with Ayisha Jayakodi
 Comments: [Ian Smith]
+[MM] I don't feel this can pass the gateway at the moment as the Fit Criterion sounds more like a rationale to me. Provide a schedule so maintenance is carried out on time so customers don't complain is the intended benefit, not the measurable criteria that makes this passable. Perhaps something like 'The schedule of jobs satisfies all properties maintenance scheduling requirements with timeframes that do not clash, duplicate or take place when the property is occupied.'
