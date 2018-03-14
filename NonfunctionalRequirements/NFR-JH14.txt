@@ -1,0 +1,9 @@
+REQ-ID: NFR-JH14
+Description: The product shall comply with the General Data Protection Regulation
+Type: 17 Legal Requirements
+Rationale: The product will capture and process personal identifiable information of property owners and holidaymakers, therefore it must comply with the data protection regulations.
+Fit Criterion: The product must comply with the General Data Protection Regulation published by Council of the European Union in 2016. 
+Originator: Ayisha Jayakodi
+Comments: [Sergejs Bolsedvorskis]
+[JC] I feel the Fit Criterion should be reworded to say 'The Company's lawyers shall confirm that the product complies with the GDPR', at the moment the Fit Criterion just repeats the Description.
+[SB] I have considered writing something similar to 'The Company's lawyers shall confirm that the product complies with the GDPR', but the whole idea os GDPR compliance is a constant evolution process. It includes user education, information risk management, management of user privileges, monitoring, malware protection network security. It is not enough to say they you are compliant, because there are always going to be areas where you need to do improvements to your processes in order to protect your user's private data. The first step to GDPR compliance is a risk assessment followed by improvements to areas identified as biggest risks.  

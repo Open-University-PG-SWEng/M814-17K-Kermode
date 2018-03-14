@@ -1,0 +1,11 @@
+REQ-ID: NFR-JH-13
+Description: Property and service information shall be displayed so as to comply with current UK legislation.
+Type: Legal (17).
+Rationale: Landbnb are obligated under UK legislation to ensure the correctness of information supplied to prospective holidaymakers and website visitors alike.
+Fit Criterion: Property and service listings must be compliant with guidelines considering the Consumer Protection from Unfair Trading regulations 2008 and Business Protection from Misleading Marketing Regulations 2008 acts. See https://www.visitbritain.org/pink-book/unfair-trading-practices and other supporting materials below.
+Originator: Caroline Sterling
+Supporting Materials: The Pink Book Online (VisitBritain - https://www.visitbritain.org/pink-book)
+Supporting Materials: The Consumer Protection from Unfair Trading Regulations 2008 (https://www.legislation.gov.uk/uksi/2008/1277/contents/made)
+Supporting Materials: The Business Protection from Misleading Marketing Regulations 2008 (https://www.legislation.gov.uk/ukdsi/2008/9780110811475/contents)
+Supporting Materials: TPO Code of Practice (https://www.tpos.co.uk/members/codes-guidance)
+Comments: [Jonathan Hill]

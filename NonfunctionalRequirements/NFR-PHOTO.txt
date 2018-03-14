@@ -1,0 +1,7 @@
+REQ-ID: NFR-PHOTO
+Description: The photographs taken of properties will be uploaded within a reasonable amount of time.
+Type: Performance
+Rationale: To improve the usability of the system for agents and homeowners
+Fit Criterion: Each photograph should use a suitable file type for graphics and be no more than 100KB and should be uploaded with 4 seconds.
+Originator: Ayisha Jayakodi(Agent)
+Comments: KF - not specified any particular file type to avoid limiting the solution in future
