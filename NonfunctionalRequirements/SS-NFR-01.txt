@@ -2,7 +2,8 @@ REQ-ID:SS-NFR-01
 Description:The product shall make it easy for agents to add new properties to the system
 Type:Usability (11)
 Rationale:The ability to easily add properties to the system will help agents add properties quickly, and reduce barriers that may cause agents to not want to use the system
-Fit Criterion:Adding a new property to the system should take no more than 5 actions.
+Fit Criterion:The addition of a new property to the system should take no longer than 5 minutes to complete for 90% of properties added to the system by new users of the system
 Originator:Ayisha Jayakodi
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [MM] What is an action in the Fit Criterion? Is it one complete form equals one action or is it 5 fields of data? If it's the latter, I don't think you'd get the full property details in. The prior could be a very large journey. I think if you could define what an action is and consider how much information is required for a property listing this would be a little more robust.
+[SS] Took on board MM's comments and amended the fit criterion to be more specific
