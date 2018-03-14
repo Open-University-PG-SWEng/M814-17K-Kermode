@@ -138,12 +138,6 @@ Rationale: To enable a holidaymaker to find properties that meet their requireme
 Originator: Ayisha Jayakodi
 Comments: [Karl Blythe]
 
-REQ-ID: KB26
-Description: The product shall allow a holidaymaker to view a property's details
-Type: Functional
-Rationale: To enable a holidaymaker to view all property details (including photographs) so they can make an informed choice
-Originator: Caroline Sterling
-Comments: [Karl Blythe]
 
 REQ-ID: ES27
 Description: The property details must contain its photographs

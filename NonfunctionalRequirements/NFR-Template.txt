@@ -1,7 +1,8 @@
-REQ-ID:
-Description:
-Type:
-Rationale:
-Fit Criterion:
-Originator:
+REQ-ID: ES21-NFR
+Description: The images must be colored with high definition with no less than 5 images per property.
+Type: Usability, reliability and efficiency
+Rationale: Holiday makers need to familiarize with the property intended to rent.  Therefore holiday maker need to be able to view it from all angles possible with good quality images.
+Fit Criterion: The web application must be able to allow holiday makers to view colored images of the properties in high definition mode.
+Originator: Landbnb
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[ES-Ezequias Santos]
