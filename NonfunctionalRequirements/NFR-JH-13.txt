@@ -9,3 +9,4 @@ Supporting Materials: The Consumer Protection from Unfair Trading Regulations 20
 Supporting Materials: The Business Protection from Misleading Marketing Regulations 2008 (https://www.legislation.gov.uk/ukdsi/2008/9780110811475/contents)
 Supporting Materials: TPO Code of Practice (https://www.tpos.co.uk/members/codes-guidance)
 Comments: [Jonathan Hill]
+[KF] This is a well designed requirement which uses the current legislation as a basis for the fit criterion.  The only suggestion I can think of making (and it is minor!) is that I would possiblly word the fit criterion as 'All property...' or '100% of property listings' 
