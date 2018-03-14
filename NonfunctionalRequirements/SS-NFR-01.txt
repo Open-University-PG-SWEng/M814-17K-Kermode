@@ -1,6 +1,6 @@
 REQ-ID:SS-NFR-01
 Description:The product shall make it easy for agents to add new properties to the system
-Type:Non-Functional
+Type:Usability (11)
 Rationale:The ability to easily add properties to the system will help agents add properties quickly, and reduce barriers that may cause agents to not want to use the system
 Fit Criterion:Adding a new property to the system should take no more than 5 actions.
 Originator:Ayisha Jayakodi
