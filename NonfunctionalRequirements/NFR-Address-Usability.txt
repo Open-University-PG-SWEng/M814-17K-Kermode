@@ -5,5 +5,6 @@ Rationale: Some users postal addresses might be very long, so there should be en
 Fit Criterion: The repository must be able to hold a string of maximum 16 characters.
 Originator: Ayisha Jayakodi
 Comments: [CMP-Christoher Pateman]
-Comments: [JH] Why is there a limit of 250 characters? It seems arbitrary. 
+Comments: [JH] Why is there a limit of 250 characters? It seems arbitrary.
 Comments: [IS] For databases, the recommended field size for postal code seems to be a VARCHAR(16). See https://en.wikipedia.org/wiki/Postal_code
+Comments: [JH] I believe Ian's comment has been mis-interpreted, the guidance he suggested was for just the postcode part of the address. The point I was trying to get at (albeit awkwardly), was is there a best practice or some industry wide guide on addressing that could be used for the fit criterion?  
