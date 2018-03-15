@@ -15,7 +15,7 @@ KF15      |
 IS17      |
 IS18      |   Ian Smith
 SS19      |   Chris Pateman / Shaun Sheppard
-RU21      |
+RU21      |   Rieko Ueshima
 MG23      |
 MG24      |
 KB25      |
