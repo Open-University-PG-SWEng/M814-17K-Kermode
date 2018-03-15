@@ -1,9 +1,11 @@
 REQ-ID: ES21-NFR
-Description: The images must be colored with high definition with no less than 5 images per property.
+Description: The images must be colored with good definition with no more than 15 images per property.
 Type: Usability, reliability and efficiency
 Rationale: Holiday makers need to familiarize with the property intended to rent.  Therefore holiday maker need to be able to view it from all angles possible with good quality images.
-Fit Criterion: The web application must be able to allow holiday makers to view gallery of colored images of the properties in good definition, in no more than 3 sec and no more than 5 images per property.
+Fit Criterion: The web application must be able to allow holiday makers to view gallery of colored images of the properties in good definition of at least 72dpi, in no more than 3 sec and no more than 15 images per property.
 Originator: Landbnb
 Comments: 
 [KF] You have a contradiction between the description and the fit criterion - in the description it says no less than 5 images and the fit criterion states no more than 5 images.  I would consider raising the number of images, many of the competitor websites have an average of 15 photographs per property. You could also define the resolution as a higher resolution equals longer loading times.
 [SW] What is High Definition? I think it should sepecifically state the resolutions or at least a minimum resolution. for example the minimum resolution could be 720p with a recommended resolution of 1080p. Also KF is correct in the contradiction between fit criteria and description.
+
+
