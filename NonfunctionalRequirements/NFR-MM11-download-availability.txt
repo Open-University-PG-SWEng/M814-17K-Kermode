@@ -1,8 +1,8 @@
 REQ-ID: MM11-NFR
-Description: The download feature shall be available for a minimum of 99.9% uptime annually
+Description: The download feature shall be available for a minimum of 95% uptime annually
 Type: Performance
 Rationale: The download feature should be available so customers can access the property details they need and to avoid reputational risk for the company due to broken features.
-Fit Criterion: The download feature should not be unavailable for more than ~44 minutes per month on average to achieve the 99.9% uptime annually.
+Fit Criterion: The download feature should not be unavailable for more than ~1.5 days per month on average to achieve the 95% uptime annually.
 Originator: Ayashi Jayakodi
 Comments: [MM-Mike Moore]
 
@@ -10,4 +10,5 @@ Comments: [MM-Mike Moore]
 [PF-Paul Farmer] Shouldn't the description simply indicate that the product should maintain a high level of availability for the download feature. The fit criteria then specifies the actual level.
 [PF] I also agree that the percentage specified creates a significant cost/benefit issue. The system may need to be unavailable for maintenance, backups etc., that could cause the target to be missed.
 [PF] This requirement may force significant redundancy options to be considered that would cause the cost of implementation to escalate.
-[MM] 'High' is not measurable and is subject to perspective so a value is required. AWS is higher at 99.99% and these days it's likely (and cheap) for this 'download feature' to simply be an S3 bucket containing PDFs of property details that can be accessed, with the url, without the dependency of the website. So the download feature itself will be available even at times the website is not. Yes customers aren't likely to know that but this requirement is focussed on the download feature being available and not the website providing links. Even if not using AWS, there's no reason a download server should be coupled with the website.
+[MM-Mike Moore] 'High' is not measurable and is subject to perspective so a value is required. AWS is higher at 99.99% and these days it's likely (and cheap) for this 'download feature' to simply be an S3 bucket containing PDFs of property details that can be accessed, with the url, without the dependency of the website. So the download feature itself will be available even at times the website is not. Yes customers aren't likely to know that but this requirement is focussed on the download feature being available and not the website providing links. Even if not using AWS, there's no reason a download server should be coupled with the website.
+[MM] Taking into account concern from my peers, I've reduced this to 95%. I'm not convinced about the potential costs of infrastructure but these property detail files will still need to be added correctly by agents which if missing would be akin to a down service from a customer perspective. This then accounts for human error in 1/20 property details uploaded
