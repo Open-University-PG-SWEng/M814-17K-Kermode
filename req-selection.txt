@@ -1,7 +1,7 @@
 REQ-ID    |   Business Analyst
 ------------------------------
 CMP01     |
-CMP02     |
+CMP02     |   Simon Towler
 SB04      |   Kate Feliciello
 PF06      |   Paul Farmer
 SW07      |
