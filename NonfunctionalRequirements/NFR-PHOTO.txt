@@ -11,4 +11,4 @@ Comments:
 which I feel partly describes the solution. While potentially it's probably safe to assume that photos will be uploaded, it is possible there may be a better
 solution that we are unaware of.
 [ESantos] Not specified the minimum number of photographs, as well as if they need to be coloured, neither its quality.
-
+[RU] I have same opinion with previous comments. It is more suitable to describe what type of file if you mention file type.

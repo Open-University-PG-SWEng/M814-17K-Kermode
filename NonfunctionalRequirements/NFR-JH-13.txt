@@ -12,3 +12,4 @@ Comments: [Jonathan Hill]
 [KF] This is a well designed requirement which uses the current legislation as a basis for the fit criterion.  The only suggestion I can think of making (and it is minor!) is that I would possibly word the fit criterion as 'All property...' or '100% of property listings'
 [JH] I guess it could be implied but I take your point.
 [JH] The sponsors name has been removed from the Rationale so as to make the requirement more reusable.
+[RU] This requirement follows description of Everyday project. I just wonder the description is better to describe more connected to fit criterion like "Property and service information shall comply with UK legislation"
