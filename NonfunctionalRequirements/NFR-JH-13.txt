@@ -13,3 +13,4 @@ Comments: [Jonathan Hill]
 [JH] I guess it could be implied but I take your point.
 [JH] The sponsors name has been removed from the Rationale so as to make the requirement more reusable.
 [RU] This requirement follows description of Everyday project. I just wonder the description is better to describe more connected to fit criterion like "Property and service information shall comply with UK legislation"
+[JH] I wanted the fit criterion to be more precise so that developers know what to work against. UK legislation hints at the solution but it's not precise enough for my liking. It's too vague to be tested against.
