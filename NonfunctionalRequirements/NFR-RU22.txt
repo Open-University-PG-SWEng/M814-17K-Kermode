@@ -1,9 +1,0 @@
-REQ-ID:NFR-RU22
-Description:The system shall create a confirmation letter once payment completion is confirmed.
-Type:Performance
-Rationale: A holidaymaker can confirm their reservation is completed correctly.
-Fit Criterion: Maximum transaction time of creating a confirmation letter is no more than 1 sec after the system confirm completion of customer's payment.
-Originator:Ayisha Jayakodi - An agent
-Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
-
-
