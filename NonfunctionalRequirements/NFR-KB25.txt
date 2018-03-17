@@ -1,0 +1,10 @@
+REQ-ID: KB25-NFR
+Description: The product shall only return properties from the search that match the given criteria
+Type: Performance (Accuracy)
+Rationale: The product must return [only] the properties that match the given criteria because holidaymakers may become frustrated by inaccurate results and leave the web site
+Fit Criterion: 100% of searches performed will return only the properties that the criteria dictates
+Originator: Landbnb
+Comments:
+[KB] Not sure its best practice to comment on your own NFR but it may start a conversation. 100% accuracy seems reasonable if the search function does not take into account -
+[KB - continued] poor property data that has either been saved (in the system by Landbnb) or entered as search criteria such as typos in postcode or town. However landbnb stakeholders might be happy with a lower percentage
+[KB - continued] if the function can be developed in less time or with fewer resources.
