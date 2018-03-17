@@ -5,5 +5,5 @@ Rationale: A holidaymaker can confirm their reservation is completed correctly.
 Fit Criterion: Maximum transaction time of creating a confirmation letter is no more than 1 sec after the system confirm completion of customer's payment.
 Originator:Ayisha Jayakodi - An agent
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
-
+[KB] I think the Fit criterion is precise and links well with the type of NFR you have chosen but i would probably change the rationale so that it connects with the NFR type. I would mention a reduction in the holidaymakers anxiety in the rationale as to why its important to send a confirmation quickly.
 
