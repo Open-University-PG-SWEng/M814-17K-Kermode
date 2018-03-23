@@ -1,0 +1,11 @@
+REQ-ID: NFR-SW01
+Description: The property diary should be updated as soon as possible after the payment is authorised and accepted
+Type: Performance (12)
+Rationale: The property diary needs to be updated as soon as possible after the payment has been taken so that no other user can attempt to book the property
+Fit Criterion:The property diary should be updated automatically after the payment is authorised and accepted
+Originator: Steven Wood
+Comments: [Steven Wood]
+[IS] I can't help but think that this is the wrong point. Assuming that the sequence would be select property -> click to book -> fill out all details -> provide card payment, then shouldn't you have an effective "lock" at the point of clicking to book and release the "lock" either after completion or timeout? If someone is faster then you are in typing details you get to enter card details only to find the property has vanished under your feet.
+[JC] Perhaps it should say 'The property diary should be updated automatically after the payment is authorised and accepted'. The 10 seconds rule should be omitted and replaced with the word 'automatically', I think.
+[SS] I agree with JS, an event actioned by the system upon payment confirm would be a better way. In many payment gateways, once payment is successful there's a call back which a system can use to action any events which need to take place.
+

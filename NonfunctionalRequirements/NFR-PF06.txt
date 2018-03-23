@@ -1,0 +1,30 @@
+REQ-ID:PF06-NFR
+Description:Property details shall be subject to a consistency and accuracy check prior to being permitted to be viewed by prospective holidaymakers
+Type:Legal Requirement
+Rationale:If property details are inaccurate or misleading, the company could be subject to legal action brought by prospective holidaymakers 
+Fit Criterion:Property details shall be checked on initial upload, change or yearly to ensure that the accuracy of stored data has an error rate that exceeds that 
+specified by the in-force VisitBritain requirements, and also to a standard deemed acceptable by the companies legal representatives.
+Sopporting Information: https://www.visitbritain.org/pink-book/ and all relevant links
+Originator:Brian Aldridge [Agency Owner]
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[MM-Mike Moore] The Fit Criterion is perhaps more of an ongoing business process than a quality the system can be assessed for. 
+                Perhaps the same could be said of the requirement. Outside of validation to check for the right types of information 
+                being entered I don't see how the system being developed can be checked for accuracy. 
+                If it were typed in that a property's address is in Brighton when it's actually in Blackpool, there's nothing the system 
+                being created can do to discern the quality of that data being entered. 
+                It's up to the agency to ensure that processes are in place to ensure accurate data is input. I don't think this would pass the gateway at the moment.
+[CP] The Fit Criterion describes what the quality checking will be held against, but I think it should be more in the detail 
+     of how this is going to be checked. Could this be an automated process to validate the data entered in or would it trigger 
+     an alert for someone to manually validate it before it goes live?
+[ESantos] Fir Criterion does not precise the number of times the properties need to be checked, this could could be avoided if 
+          the application could be able to update its data every month for instance.
+[PF - Responses]:
+                 [MM] - You are correct that the validation may have to be performed manually and may have to have processes in place. 
+                        It is then up to the product to support these processes. This may be that the product (for example) has to have the agent 
+                        electronically sign each property entry as confirmed against the relevant criteria, 
+                        or just tick a check box to indicate the same. However, these are both solutions to be specified by the designers to satisfy the
+                        requirement, not requirements in themselves.
+                        Therefore, I will not be modifying the requirement.
+                 [CP] - The comments are valid, but both propose a solution as a fit criteria, which is not the point of the fit criteria. 
+                        It is up to the designers to decide how the requirement, and hence the fit criteria are to be agreed.
+                 [ESantos] - Agreed, requirement modified to remove ambiguity regarding period.

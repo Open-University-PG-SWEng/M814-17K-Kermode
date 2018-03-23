@@ -1,0 +1,24 @@
+REQ-ID    |   Business Analyst
+------------------------------
+CMP01     |
+CMP02     |   Simon Towler
+SB04      |   Kate Feliciello
+PF06      |   Paul Farmer
+SW07      |
+SW08      |   Steven Wood
+JC09      |   James Chalmers
+JC10      |
+MM11      |   Mike Moore
+JH13      |   Jonathan Hill
+JH14      |   Sergejs Bolsedvorskis
+KF15      |
+IS17      |
+IS18      |   Ian Smith
+SS19      |   Chris Pateman / Shaun Sheppard
+RU21      |   Rieko Ueshima
+MG23      |
+MG24      |
+KB25      |   Karl Blythe
+KB26      |
+ES27      |   Ezequias Santos
+ES28      |

@@ -1,0 +1,14 @@
+REQ-ID: NFR-PHOTO
+Description: The photographs taken of properties will be uploaded within a reasonable amount of time.
+Type: Performance
+Rationale: To improve the usability of the system for agents and homeowners
+Fit Criterion: Each photograph should use a suitable file type for graphics and be no more than 100KB and should be uploaded with 4 seconds.
+Originator: Ayisha Jayakodi(Agent)
+
+Comments:
+[KF] not specified any particular file type to avoid limiting the solution in future
+[SS] I agree with KF's comment above, but would also suggest that the requirement is technology specific in that it mentions the photographs must be 'uploaded',
+which I feel partly describes the solution. While potentially it's probably safe to assume that photos will be uploaded, it is possible there may be a better
+solution that we are unaware of.
+[ESantos] Not specified the minimum number of photographs, as well as if they need to be coloured, neither its quality.
+[RU] I have same opinion with previous comments. It is more suitable to describe what type of file if you mention file type.

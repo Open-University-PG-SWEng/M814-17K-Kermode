@@ -1,0 +1,8 @@
+REQ-ID: MG24-NFR
+Description: The product shall quickly return whether or not a property is available on specific dates. 
+Type: Performance (Speed)
+Rationale: To enable a good customer experience and preventing the loss of a potential customer through frustration.
+Fit Criterion: The product returns the property availability within 2 seconds of request 95% of the time.
+Supporting Material: https://www.bitcatcha.com/blog/2015/6-reasons-why-website-speed-matters-how-amazon-would-lose-1-6-billion-if-it-slowed-down/
+Originator: Ayisha Jayakodi
+Comments:

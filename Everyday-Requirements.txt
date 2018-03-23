@@ -73,7 +73,7 @@ REQ-ID: JH13
 Description: The product shall display Landbnb’s list of properties and services to visitors.
 Type: Functional
 Rationale: The primary purpose of the product is to advertise Landbnb's properties and services.
-Originator: Carolie Sterling
+Originator: Caroline Sterling
 Comments: [Jonathan Hill]
 
 REQ-ID: JH14
@@ -88,14 +88,7 @@ Description: The product shall record the number of rooms and services to the pr
 Type: Functional
 Rationale: To be able to accurately record property details in order to to match holidaymakers needs to potential properties
 Originator: Ayisha Jayakodi
-Comments: [Kate Feliciello] 
-
-EQ-ID: KF16
-Description: The product shall be able to search for properties similar in type and location
-Type: Functional
-Rationale: To be able to compare rental prices of similar properties before setting a rental price with owner
-Originator: Ayisha Jayakodi
-Comments: [Kate Feliciello] 
+Comments: [Removed PF06 as it was a more generalised form of this requirement]
 
 REQ-ID: IS17
 Description: The product shall allow the owner of a registered property to request a cleaning service during a known period of absense.
@@ -118,42 +111,49 @@ Rationale: The postal address ensures that properties can be filtered by a holid
 Originator: Ayisha Jayakodi
 Comments: [Shaun Sheppard]
 
-REQ-ID: SS20
-Description: The product shall record the rental price of properties available for rent
-Type: Functional
-Rationale: The rental price will allow holidaymakers to determine if a property is within their budget
-Originator: Ayisha Jayakodi
-Comments: [Shaun Sheppard]
-
 REQ-ID: RU21
 Description: The system shall create a confirmation letter based on booking diary information.
 Rationale: To ensure a confirmation letter shall include valid booking information.
 Originator: Ayisha Jayakodi - An agent
 Comments: [Rieko Ueshima]
 
-REQ-ID: RU22
-Description: The system shall send a confirmation letter to a holidaymaker and an owner. 
-Rationale: To notify a holidaymaker and an owner their contract is concluded.
-Originator: Ayisha Jayakodi - An agent
-Comments: [Rieko Ueshima]
-
 REQ-ID: MG23
 Description: The product shall find the product searched for.
 Type: Functional
-Rationale: To ensure that the selected property is within the database of offered holiday properties and can be booked against. 
+Rationale: To ensure that the selected property is within the database of offered holiday properties and can be booked against.
 Originator: Ayisha Jayakodi
 Comments: [Matthew Gill]
 
 REQ-ID: MG24
 Description: The product shall check if the property is available on the dates entered.
 Type: Functional
-Rationale: To establish whether or not there is a booking already made against the dates selected. If there is already a booking this establishes another booking cannot be made.  
+Rationale: To establish whether or not there is a booking already made against the dates selected. If there is already a booking this establishes another booking cannot be made.
 Originator: Ayisha Jayakodi
 Comments: [Matthew Gill]
 
+<<<<<<< HEAD
 REQ-ID: KB26
 Description: The product shall allow a holidaymaker to view a property's details
+=======
+REQ-ID: KB25
+Description: The product shall allow a holidaymaker to search for properties
 Type: Functional
-Rationale: To enable a holidaymaker to view all property details (including photographs) so they can make an informed choice
-Originator: Caroline Sterling
+Rationale: To enable a holidaymaker to find properties that meet their requirements
+Originator: Ayisha Jayakodi
 Comments: [Karl Blythe]
+
+
+REQ-ID: ES27
+Description: The property details must contain its photographs
+>>>>>>> 95252ac795d6c837b60d659b1a7596b00884ba97
+Type: Functional
+Rationale: To provide visual details of the property holiday makers intend to rent; these photographs will display aspects of the property which can or cannot be attractive to the holiday makers
+Originator: Landbnb
+[comments: [Ezequias Santos]
+
+REQ-ID: ES28
+Description: The form report must contain information regarding the heating, utilities, any service to be made, special feature of the property.
+Type: Functional
+Rationale: To allow holiday makers to be fully aware about the property/room they are planning to rent.
+Originator: Landbnb
+[comments: [Ezequias Santos]
