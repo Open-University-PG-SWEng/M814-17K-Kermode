@@ -17,7 +17,7 @@ IS18      |   Ian Smith
 SS19      |   Chris Pateman / Shaun Sheppard
 RU21      |   Rieko Ueshima
 MG23      |
-MG24      |
+MG24      |   Matt Gill
 KB25      |   Karl Blythe
 KB26      |
 ES27      |   Ezequias Santos
